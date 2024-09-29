@@ -5,3 +5,4 @@
 # Create a new function for live messaging solution to an existing collaboration tool
 # Legacy customer
 # Customer expects fast results with high quality
+# Onboarding of new menbers to the team in the next few weeks
