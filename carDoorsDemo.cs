@@ -12,21 +12,21 @@ public class Test
         car.rightSideDoors = "2";
     }
 
-        public void Test()
-        {
-            List<CarDoors> doors = new List<CarDoors>();
-            /// polulate some test data
-            for(int i = 0;i<10;i++)
-                doors.Add(new CarDoors());
+    public void Test()
+    {
+        List<CarDoors> doors = new List<CarDoors>();
+        /// polulate some test data
+        for(int i = 0;i<10;i++)
+            doors.Add(new CarDoors());
 
                 // update the list using the UpdateCar method
                 doors.ForEach(carDoors);
  
                 // check the result
-            foreach (CarDoors car in doors)
-            {
+        foreach (CarDoors car in doors)
+        {
             Debug.WriteLine(car.leftSideDoors);
             Debug.WriteLine(car.rightSideDoors.ToString());
-            }
-}
+        }
+    }
 }
