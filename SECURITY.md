@@ -15,6 +15,8 @@ currently being supported with security updates.)
 ## Reporting a Vulnerability
 Use this section to tell people how to report a vulnerability.
 
+I will provide more information about raising a vulnerability
+
 As it's a public repository, updates are often made. 
 Once an issue or vulnerability has been raised/reported, i will look into it and start working on it.
 
